@@ -1,3 +1,3 @@
 # hello my name is ...
 
-![7ji-hyung's github stats](https://github-readme-stats.vercel.app/api?username=first-github-user)
+![7ji-hyung's github stats](https://github-readme-stats.vercel.app/api?username=7ji-hyung)
